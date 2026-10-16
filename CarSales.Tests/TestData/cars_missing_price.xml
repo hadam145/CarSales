@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+
+    <!-- Car with missing price -->
+    <car>
+        <model>Škoda Felicia</model>
+        <sale>2000-12-03T00:00:00</sale>
+        <dph>20</dph>
+    </car>
+
+</cars>

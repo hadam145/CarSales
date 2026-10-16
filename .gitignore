@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.rsuser
+
+# .NET build outputs
+**/bin/
+**/obj/
+
+# Test results
+**/TestResults/
+*.trx
+coverage/
+coverage.cobertura.xml
+coverage.opencover.xml
+
+# Generated packages
+*.nupkg
+*.snupkg
+
+# Temporary files
+*.tmp
+*.bak
+*~

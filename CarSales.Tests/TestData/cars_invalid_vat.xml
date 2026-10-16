@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+
+    <!-- Car with Invalid VAT rate -->
+
+    <car>
+        <model>Škoda Oktávia</model>
+        <sale>2010-12-05T00:00:00</sale>
+        <price>500000</price>
+        <dph>150</dph>
+    </car>
+
+</cars>

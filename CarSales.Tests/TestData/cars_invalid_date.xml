@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+
+    <!-- Car with invalid date format -->
+    <car>
+        <model>Škoda Fabia</model>
+        <sale>2010-13-45T00:00:00</sale>
+        <price>350000</price>
+        <dph>20</dph>
+    </car>
+    
+</cars>

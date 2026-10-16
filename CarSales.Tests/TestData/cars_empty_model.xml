@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+
+    <!-- Car with empty model -->
+
+    <car>
+        <model></model>
+        <sale>2010-12-05T00:00:00</sale>
+        <price>350000</price>
+        <dph>20</dph>
+    </car>
+
+</cars>

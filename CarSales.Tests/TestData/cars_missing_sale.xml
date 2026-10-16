@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+
+    <!-- Car with missing sale date -->
+    <car>
+        <model>Škoda Oktávia</model>
+        <price>500000</price>
+        <dph>20</dph>
+    </car>
+
+</cars>

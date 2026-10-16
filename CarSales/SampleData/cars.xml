@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <model>Škoda Oktávia</model>
+        <sale>2010-12-02T00:00:00</sale>
+        <price>500000</price>
+        <dph>20</dph>
+    </car>
+    <car>
+        <model>Škoda Felicia</model>
+        <sale>2000-12-03T00:00:00</sale>
+        <price>210000</price>
+        <dph>20</dph>
+    </car>
+    <car>
+        <model>Škoda Fabia</model>
+        <sale>2010-12-04T00:00:00</sale>
+        <price>350000</price>
+        <dph>20</dph>
+    </car>
+    <car>
+        <model>Škoda Oktávia</model>
+        <sale>2010-12-04T00:00:00</sale>
+        <price>500000</price>
+        <dph>20</dph>
+    </car>
+    <car>
+        <model>Škoda Oktávia</model>
+        <sale>2010-12-05T00:00:00</sale>
+        <price>500000</price>
+        <dph>20</dph>
+    </car>
+    <car>
+        <model>Škoda Fabia</model>
+        <sale>2010-12-05T00:00:00</sale>
+        <price>350000</price>
+        <dph>20</dph>
+    </car>
+    <car>
+        <model>Škoda Fabia</model>
+        <sale>2010-12-06T00:00:00</sale>
+        <price>350000</price>
+        <dph>20</dph>
+    </car>
+    <car>
+        <model>Škoda Forman</model>
+        <sale>2000-12-04T00:00:00</sale>
+        <price>100000</price>
+        <dph>19</dph>
+    </car>
+    <car>
+        <model>Škoda Favorit</model>
+        <sale>2000-12-05T00:00:00</sale>
+        <price>80000</price>
+        <dph>19</dph>
+    </car>
+    <car>
+        <model>Škoda Forman</model>
+        <sale>2000-12-06T00:00:00</sale>
+        <price>100000</price>
+        <dph>19</dph>
+    </car>
+    <car>
+        <model>Škoda Felicia</model>
+        <sale>2000-12-03T00:00:00</sale>
+        <price>210000</price>
+        <dph>19</dph>
+    </car>
+    <car>
+        <model>Škoda Felicia</model>
+        <sale>2000-12-02T00:00:00</sale>
+        <price>210000</price>
+        <dph>19</dph>
+    </car>
+    <car>
+        <model>Škoda Oktávia</model>
+        <sale>2010-12-07T00:00:00</sale>
+        <price>500000</price>
+        <dph>20</dph>
+    </car>
+</cars>
