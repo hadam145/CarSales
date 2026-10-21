@@ -21,11 +21,11 @@ Výsledky seskupuje podle modelu a uvádí ceny bez DPH i s DPH.
 
 ### Víkendové souhrny
 
-<img width="797" height="617" src="https://github.com/user-attachments/assets/f13554dc-929f-4ba0-89fe-9f39296ab700" alt="Víkendové souhrny prodejů" />
+<img width="797" height="617" alt="Víkendové souhrny prodejů" src="https://github.com/user-attachments/assets/0c03d498-697c-4dc5-8caa-9c3bb79c600a" />
 
 ### Všechny prodeje
 
-<img width="797" height="617" src="https://github.com/user-attachments/assets/fd0c8eb0-92e8-49b4-b2bb-21291b1b489c" alt="Přehled všech prodejů" />
+<img width="797" height="617" alt="Přehled všech prodejů" src="https://github.com/user-attachments/assets/ab1b140a-1bd4-4c1d-a1e5-d81720fa96b7" />
 
 ## Požadavky
 
