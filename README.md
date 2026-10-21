@@ -31,7 +31,7 @@ Výsledky seskupuje podle modelu a uvádí ceny bez DPH i s DPH.
 
 - Windows 10/11
 - .NET 10 SDK
-- Visual Studio s podporou vývoje desktopových aplikací pro .NET (volitelné při použití příkazové řádky)
+- Visual Studio 2026 (18.0 nebo novější)
 
 ## Spuštění aplikace
 
