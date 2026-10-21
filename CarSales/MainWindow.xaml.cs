@@ -36,11 +36,13 @@ namespace CarSales
                 AllCarsDataGrid.ItemsSource = cars;
                 ResultsDataGrid.ItemsSource = summaries;
 
-                SalesTabControl.SelectedIndex= 0;
+                SalesTabControl.SelectedIndex = 0;
 
-                FileStatusTextBlock.Text =
-                    $"Soubor: {Path.GetFileName(dialog.FileName)} | " +
-                    $"Načteno: {cars.Count} vozidel";
+                FileStatusTextBlock.Text = summaries.Count == 0
+                    ? "Soubor byl načten, ale neobsahuje víkendové prodeje."
+                    : $"Soubor: {Path.GetFileName(dialog.FileName)} | " +
+                      $"Načteno: {cars.Count} vozidel";
+
             }
             catch (XmlException ex)
             {
@@ -82,7 +84,7 @@ namespace CarSales
         private void ClearResults()
         {
             ResultsDataGrid.ItemsSource = null;
-            AllCarsDataGrid.ItemsSource= null;
+            AllCarsDataGrid.ItemsSource = null;
 
             FileStatusTextBlock.Text = "Soubor se nepodařilo načíst.";
         }

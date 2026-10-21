@@ -44,6 +44,7 @@ namespace CarSales.Services
 
             var cars = document.Root.Elements("car")
                 .Select((element, index) => ParseCar(element, index + 1))
+                .OrderBy(element => element.Model)
                 .ToList();
 
             if (cars.Count == 0)

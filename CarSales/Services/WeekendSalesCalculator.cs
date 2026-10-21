@@ -35,6 +35,7 @@ namespace CarSales.Services
                     TotalWithVat = group.Sum(car =>
                         car.Price * (1 + car.VatRate / 100))
                 })
+                .OrderBy(summary => summary.Model)
                 .ToList();
 
             if (summaries.Any(summary =>
